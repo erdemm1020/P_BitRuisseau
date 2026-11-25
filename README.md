@@ -22,10 +22,11 @@ Produit
 - Pouvoir importer un son d'une médiathèque distante pour l'écouter hors connexion
 
 Pédagogiques
-- Réaliser une application complète à partir d'un cahier des charges
-- Mettre en pratique les modules 323 et 321 : programmation, réseau et communication entre applications
-- Travailler comme en entreprise : user stories, planification, journal de travail, commits clairs
-- Écrire un code organisé, testé et commenté
+- **Travailler en groupe** : collaborer et se mettre d'accord avec les autres
+- **Faire une analyse fonctionnelle en user stories** : décrire les besoins du point de vue de l'utilisateur
+- **Tenir un journal de travail** : noter régulièrement l'avancement et les problèmes rencontrés
+- **Livrer le projet** : rendre dans les délais une application qui fonctionne
+- **Bien doser l'utilisation de l'IA** : s'en servir comme aide tout en comprenant son travail
 
 ## User stories
 
